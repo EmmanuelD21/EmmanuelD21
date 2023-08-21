@@ -1,6 +1,6 @@
 - 👋 Bonjour je suis Chris Emmanuel DALI 
 - 👀 je suis passioné de programmation particulierement des langages comme PYTHON et C et des langages web comme Javascript et PHP
-- 🌱 J'apprends actuellement les framework Recat et AngularJS
+- 🌱 J'apprends actuellement les framework React et AngularJS
 - 📫 Comment me contacter:
    Email: chrisemmanueld6@gmail.com
 
